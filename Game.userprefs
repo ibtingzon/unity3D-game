@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Unity\Unity2D\Assets\Scripts\SpaceShip.cs">
+    <Files>
+      <File FileName="..\Unity\Unity2D\Assets\Scripts\TouchInput.cs" Line="68" Column="75" />
+      <File FileName="..\Unity\Unity2D\Assets\Scripts\SpaceShip.cs" Line="28" Column="3" />
+      <File FileName="..\Unity\Unity2D\Assets\Scripts\PencilCollider.cs" Line="30" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

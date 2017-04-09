@@ -1,0 +1,53 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 21.20.16.4550]
+    Renderer: Intel(R) HD Graphics 520
+    Vendor:   Intel
+    VRAM:     1126 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Issa Tingzon\Desktop\Games\Unity3D\Executable\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Issa Tingzon\Desktop\Games\Unity3D\Executable\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Issa Tingzon\Desktop\Games\Unity3D\Executable\Game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Issa Tingzon\Desktop\Games\Unity3D\Executable\Game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Issa Tingzon\Desktop\Games\Unity3D\Executable\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Issa Tingzon\Desktop\Games\Unity3D\Executable\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Issa Tingzon\Desktop\Games\Unity3D\Executable\Game_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Issa Tingzon\Desktop\Games\Unity3D\Executable\Game_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Issa Tingzon\Desktop\Games\Unity3D\Executable\Game_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Issa Tingzon\Desktop\Games\Unity3D\Executable\Game_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.076 seconds
+desktop: 1920x1080 60Hz; virtual: 1280x720 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Issa Tingzon\Desktop\Games\Unity3D\Executable\Game_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Issa Tingzon\Desktop\Games\Unity3D\Executable\Game_Data\Managed\Boo.Lang.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+UnloadTime: 2.612052 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3539.
+Total: 4.005971 ms (FindLiveObjects: 0.383573 ms CreateObjectMapping: 0.073813 ms MarkObjects: 0.667306 ms  DeleteObjects: 0.751359 ms)
+
+Player died.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 6.521170 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 366.
+Total: 3.911678 ms (FindLiveObjects: 0.028586 ms CreateObjectMapping: 0.024319 ms MarkObjects: 0.262826 ms  DeleteObjects: 2.661118 ms)
+

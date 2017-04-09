@@ -1,0 +1,66 @@
+-target:library
+-i:UnityEngine
+-i:System.Collections
+-base:UnityEngine.MonoBehaviour
+-nowarn:BCW0016
+-nowarn:BCW0003
+-method:Main
+-out:Temp/Assembly-UnityScript.dll
+-x-type-inference-rule-attribute:UnityEngineInternal.TypeInferenceRuleAttribute
+-debug
+-define:UNITY_STANDALONE_WIN
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_AUDIO_FMOD
+-define:UNITY_STANDALONE
+-define:ENABLE_MONO
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_GENERICS
+-define:ENABLE_SUBSTANCE
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_MOVIES
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:UNITY_4_3_4
+-define:UNITY_4_3
+-r:"C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/WindowsStandalonePlayer/Managed/UnityEngine.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll
+Assets/Menu/LoadAgain.js
+Assets/Menu/MainMenu.js
+Assets/Menu/PlayGame.js
+Assets/Menu/Quit.js
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/AntialiasingAsPostEffect.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/BloomAndLensFlares.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/CameraInfo.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/ColorCorrectionCurves.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/ContrastEnhance.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/Crease.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/DepthOfField34.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/EdgeDetectEffectNormals.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/Fisheye.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/GlobalFog.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/PostEffectsBase.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/PostEffectsHelper.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/Quads.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/SunShafts.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/TiltShift.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/Triangles.js"
+"Assets/Mushroom Land/Standard Assets/Image Effects (Pro Only)/Vignetting.js"
+Assets/Spider/FS_rotateThis.js
+Assets/TerrainToolkit/TerrainToolkitEnums.js
+Assets/Warrior/sources/animation_keys.js
